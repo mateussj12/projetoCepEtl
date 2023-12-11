@@ -29,7 +29,8 @@ de forma que ao final do fluxo eles estejam automatizados, tratados e prontos pa
 ### Fluxo do pipeline
 ![Descrição da Imagem](img/diagrama.png)
 
- 
+### Pentaho Data Integration
+![Descrição da Imagem](img/pentaho.png)
 
 ### Considerações finais:
 - **@Desenvolvedor:** Mateus Santos de Jesus
