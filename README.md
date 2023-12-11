@@ -27,7 +27,7 @@ de forma que ao final do fluxo eles estejam automatizados, tratados e prontos pa
 ```
 
 ### Fluxo do pipeline
-![Descrição da Imagem](projetoCepEtl\img\diagrama.png)
+![Descrição da Imagem](img\diagrama.png)
 
  
 
