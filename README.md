@@ -26,7 +26,7 @@ de forma que ao final do fluxo eles estejam automatizados, tratados e prontos pa
         .env
 ```
 
-### Fluxo do pipeline
+### Fluxo do Pipeline
 ![Descrição da Imagem](img/diagrama.png)
 
 ### Pentaho Data Integration
