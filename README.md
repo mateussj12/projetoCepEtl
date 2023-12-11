@@ -1,4 +1,4 @@
-# Sistema de ETL com CEPs do Brasil
+# Sistema ETL para definição dos CEPs do Brasil
 Esse projeto faz o tratamento de dados a partir de um arquivo JSON com amostras de CEPs do Brasil todo,
 envia para a tabela Staging em um banco de dados postgresql desenvolvido em ambiente linux na Cloud Azure,
 com a utilização da ferramenta Pentaho Data Integration é feito o carregamento desses dados, o filtro e o envio para as tabelas que serão consumidas
